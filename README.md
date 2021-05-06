@@ -1,7 +1,5 @@
 # Hi, I'm Luke!
 
-***
-
 ### A Little About Me
 
 - I live in Denver, Colorado
@@ -9,6 +7,8 @@
 - My current focus is learning TypeScript and Python
 - I enjoy both front and back end coding
 - Currently open to full time Software Engineer positions
+
+***
 
 ### Stats
 
