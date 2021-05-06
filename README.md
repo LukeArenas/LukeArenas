@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeArenas&hide=issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeArenas&hide=issues&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeArenas)](https://github.com/anuraghazra/github-readme-stats)
