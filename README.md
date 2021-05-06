@@ -1,19 +1,16 @@
-### Hi, I'm Luke!
+# Hi, I'm Luke!
 
-<!--
-**LukeArenas/LukeArenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+### A Little About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I live in Denver, Colorado
+- I recently graduated from General Assembly's Sofware Engineering Immersive program
+- My current focus is learning TypeScript and Python
+- I enjoy both front and back end coding
+- Currently open to full time Software Engineer positions
 
+### Stats
 
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeArenas&hide=issues&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
